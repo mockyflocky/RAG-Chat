@@ -12,7 +12,7 @@ pdfs_directory = './data/'
 os.makedirs(pdfs_directory, exist_ok=True)
 
 # Streamlit UI
-st.title("PDF Chat & AI Assistant D19")
+st.title("PDF Chat & AI Assistant")
 
 # Model selection
 available_models = [
