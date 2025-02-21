@@ -1,5 +1,5 @@
 # RAG-Chat
-PDF Chat &amp; AI Assistant **yang Running Secara Lokal** memungkinkan pengguna mengunggah PDF untuk bertanya terkait isi dokumen atau berinteraksi langsung dengan AI tanpa PDF. PDF Chat mengekstrak informasi dari dokumen untuk jawaban akurat, cocok untuk membaca laporan atau penelitian. AI Assistant menjawab berbagai pertanyaan.
+PDF Chat &amp; AI Assistant **yang Running Secara Lokal** memungkinkan pengguna mengunggah PDF untuk bertanya terkait isi dokumen atau berinteraksi langsung dengan AI. PDF dengan fitur Chat mengekstrak informasi dari dokumen sebagai knowledge AI untuk memberikan jawaban akurat.  
 
 # Install Ollama 
 kemudian pull model, bisa cek di library ollama sedot secukupnya sesuaikan dengan spek hardware.<br>
