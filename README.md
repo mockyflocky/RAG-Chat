@@ -3,7 +3,9 @@ PDF Chat &amp; AI Assistant **yang Running Secara Lokal** memungkinkan pengguna 
 
 # Install Ollama 
 kemudian pull model, bisa cek di library ollama sedot secukupnya sesuaikan dengan spek hardware.<br>
-```ollama pull deepseek-r1:14b```
+```ollama pull llama3.2``` atau ```ollama pull deepseek-r1```
+Check model
+```ollama ls```
 
 # Install Ramuan
 daftar pustaka (libraries) dan dependensi yang dibutuhkan agar proyek dapat berjalan dengan benar<br>
