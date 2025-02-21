@@ -15,5 +15,5 @@ daftar pustaka (libraries) dan dependensi yang dibutuhkan agar proyek dapat berj
 sebagai frontend yang paling ciamik, namun banyak framework alternatif lain yang bisa dipakai (FastAPI / Flask) tinggal di ganti headernya from --- import ---<br>
 ```streamlit run pdf_rag.py```
 
-# Other Option
+# Suggestion 
 Karena berjalan di lokal ada baiknya menggunakan Virtual Environment (Venv) utk menghindari konflik dependensi **Menjaga Kebersihan rumah   Python**
